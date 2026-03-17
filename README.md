@@ -3,7 +3,7 @@
 A simple Snake game built using HTML, CSS, and JavaScript.
 
 ## 🚀 Live Demo
-(Add GitHub Pages link here later)
+https://shreshu-bit.github.io/Snake-Game/
 
 ## 🎮 Features
 - Smooth movement
